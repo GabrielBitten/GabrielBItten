@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielbitten&show_icons=true&count_private=true&hide_border=true&title_color=17f9ff&icon_color=17f9ff&text_color=17f9ff&bg_color=0d1117" alt="Gabriel Bittencourt github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielbitten&show_icons=true&count_private=true&hide_border=true&title_color=17f9ff&icon_color=17f9ff&text_color=17f9ff&bg_color=0d1117" alt="Gabriel Bittencour github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbitten&layout=compact&hide_border=true&title_color=17f9ff&text_color=17f9ff&bg_color=0d1117" />
 </div>
 
@@ -40,7 +40,9 @@
 <a href = "mailto:gabrielbcds40@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-bittencourt-camillo-de-souza-468a05203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://wa.me/5544991597464" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-
+<p align="center">
+  <h3 align="center">My personal portifolio:</h3>
+</p>
 <a href="https://gabrielbitten.github.io/Portifolio/" style="background-color: #CCF381;">
   <img src="https://img.shields.io/badge/-Portifólio-%23333?style=for-the-badge&logo=FontAwesome&logoColor=white" target="_blank">
 </a>
