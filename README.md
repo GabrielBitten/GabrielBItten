@@ -12,9 +12,28 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielbitten&bg_color=151b23&color=17f9ff&line=17f9ff&point=00b4fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
 <div align="center"> 
-<a href="https://www.instagram.com/bitten044/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  
+<a href="https://www.instagram.com/bitten044/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:gabrielbcds40@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-bittencourt-camillo-de-souza-468a05203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://wa.me/5544991597464" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
  </div>
+
+
+  ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-151B23?style=for-the-badge&logo=javascript&labelColor=151B23)
+![CSS](https://img.shields.io/badge/-CSS-151B23?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=151B23)
+![HTML](https://img.shields.io/badge/-HTML-151B23?style=for-the-badge&logo=html5&labelColor=151B23)
+
+<hr>
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-151B23?style=for-the-badge&logo=react&labelColor=151B23)
+![TypeScript](https://img.shields.io/badge/-TypeScript-151B23?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=151B23)
+![JavaScript](https://img.shields.io/badge/-JavaScript-151B23?style=for-the-badge&logo=javascript&labelColor=151B23)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17f9ff&height=120&section=footer"/>
+
+
